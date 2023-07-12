@@ -1,0 +1,4 @@
+status de consulta [ ativa, cancelada, remarcada, realizada]
+
+
+pesquisa por cliente (historico de consultas, transcrições)
