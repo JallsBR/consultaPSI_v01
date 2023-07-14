@@ -1,6 +1,6 @@
 import csv
-from datetime import datetime, date, timedelta
-from valida import *
+from datetime import datetime, date
+from modulos.valida import *
 
 data_atual = date.today()
 data_atual = datetime.strftime(data_atual, '%d/%m/%Y')

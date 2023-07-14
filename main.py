@@ -1,11 +1,11 @@
 import csv
 from datetime import datetime, date, timedelta
-from pacientes import *
-from consultas import *
-from transcrições import *
-from valida import *
-
+from modulos.pacientes import *
+from modulos.consultas import *
+from modulos.transcricao import *
+from modulos.valida import *
 data_atual = date.today()
+
 
 
 

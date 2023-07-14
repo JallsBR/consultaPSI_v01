@@ -1,4 +1,3 @@
-import csv
 from datetime import datetime, date
 import requests
 

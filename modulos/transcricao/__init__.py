@@ -1,7 +1,7 @@
 import csv
-from datetime import datetime, date, timedelta
-from pacientes import *
-from consultas import *
+from datetime import datetime, date
+from modulos.pacientes import *
+from modulos.consultas import *
 
 data_atual = date.today()
 data_atual = datetime.strftime(data_atual, '%d/%m/%Y')
